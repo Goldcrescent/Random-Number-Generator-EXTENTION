@@ -1,1 +1,1 @@
-# Random-Number-Generator-EXTENTION
+# Random-Number-Generator-EXTENSION
